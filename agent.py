@@ -2,7 +2,9 @@
 __author__ = "Joao Joseph Baeta"
 __author__ = "Jordan Ayiku Teye"
 
-
+""" 
+    Reference: https://github.com/patrickloeber/snake-ai-pytorch
+"""
 import torch
 import random
 import numpy as np
